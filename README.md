@@ -3,7 +3,10 @@ A customizable script to display Yahoo weather data as a portable image.
 ![alt text](https://raw.githubusercontent.com/yoonsikp/weather-display/master/weather-script-output.png "Logo Title Text 1")
 
 ## Register in Yahoo Developer
-Register in https://developer.yahoo.com/ and create and app to get your app_id, consumer_key and consumer_secret
+Register in https://developer.yahoo.com/ and create and app to get your
+```
+app_id, consumer_key and consumer_secret
+```
 once you have those keys, replace them in server/parse_weather.py lines 48, 49 and 50
 
 ## Server Installation
